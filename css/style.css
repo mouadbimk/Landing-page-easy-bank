@@ -313,7 +313,7 @@ button:hover {
 }
 .hero__image {
   position: relative;
-  background-image: url("/images/bg-mobile.svg");
+  background-image: url("https://mouadbimk.github.io/Landing-page-easy-bank/images/bg-mobile.svg");
   background-size: cover;
   background-repeat: no-repeat;
   background-position: center center;
